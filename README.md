@@ -9,7 +9,7 @@
 
 # Requirements
 - 🧠 Brain
-- 🕸 Xampp, Wampp or Any web server that supports mysql.
+- 🕸 Xampp, Wampp or any web server that supports mysql.
 - 📝Code Editor (`Vscode`, `Sublime Text`) 
 
 # How to use?
